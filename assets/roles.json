@@ -1,0 +1,170 @@
+{
+  "roles": [
+    {
+      "general": [
+        {
+          "role_name": "🌌 Skylara 🌌",
+          "role_id": "384849483785175040",
+          "role_description": "EDM addict"
+        },
+        {
+          "role_name": "🌸 Barista 🌸",
+          "role_id": "730563634341740654",
+          "role_description": "wonderful moderators of the server"
+        },
+        {
+          "role_name": "🥯 Cinnamon Crunch Bagels 🥯",
+          "role_id": "839695952569827388",
+          "role_description": "OG community members"
+        }
+        ],
+
+      "location": [
+        {
+          "role_name": "˚♡ Americas ♡˚",
+          "role_id": "839697982672470086",
+          "emote_id": "840443929127682059",
+          "emote_name": "cloud"
+
+        },
+        {
+          "role_name": "˚♡ Europe ♡˚",
+          "role_id": "839698807784603698",
+          "emote_id": "840443928997920769",
+          "emote_name": "jupiter"
+        },
+        {
+          "role_name": "˚♡ Oceania ♡˚",
+          "role_id": "839698315557601310",
+          "emote_id": "840443929114443786",
+          "emote_name": "saturn"
+        },
+        {
+          "role_name": "˚♡ Asia ♡˚",
+          "role_id": "839698849034666054",
+          "emote_id": "840443929203179560",
+          "emote_name": "neptune"
+        },
+        {
+          "role_name": "˚♡ Africa ♡˚",
+          "role_id": "839698894493450300",
+          "emote_id": "840443929161105408",
+          "emote_name": "uranus"
+        }
+        ],
+
+      "games": [
+        {
+          "role_name": "˚✧ Beat Saber ✧˚",
+          "role_id": "729937325802520576",
+          "emote_id": "840841456125870081",
+          "emote_name": "armsgobrrr"
+        },
+        {
+          "role_name": "˚✧ VRChat ✧˚",
+          "role_id": "830366328951013376",
+          "emote_id": "840844509662674944",
+          "emote_name": "mirrorsimulator"
+        },
+        {
+          "role_name": "˚✧ League of Legends ✧˚",
+          "role_id": "839696616357232640",
+          "emote_id": "840846383175172137",
+          "emote_name": "leagueoflegumes"
+        }
+        ],
+
+      "hobbies": [
+        {
+          "role_name": "˚❀ Photographer ❀˚",
+          "role_id": "839744638046830623",
+          "emote_id": "841026836120993833",
+          "emote_name": "photographer"
+        },
+        {
+          "role_name": "˚❀ Artist ❀˚",
+          "role_id": "839745210858340373",
+          "emote_id": "841057680109731840",
+          "emote_name": "artist"
+        }, 
+        {
+          "role_name": "˚❀ Musician ❀˚",
+          "role_id": "839745252276830240",
+          "emote_id": "841055484596191273",
+          "emote_name": "musician"
+        }, 
+        {
+          "role_name": "˚❀ Cosplayer ❀˚",
+          "role_id": "839745295034351666",
+          "emote_id": "841049259398266880",
+          "emote_name": "cosplayer"
+        }, 
+        {
+          "role_name": "˚❀ Chef ❀˚",
+          "role_id": "839745844609155092",
+          "emote_id": "841023288972935209",
+          "emote_name": "chef"
+        }, 
+        {
+          "role_name": "˚❀ 3D Modeler ❀˚",
+          "role_id": "839745763789111317",
+          "emote_id": "841028992131006475",
+          "emote_name": "3dmodeler"
+        }, 
+        {
+          "role_name": "˚❀ Programmer ❀˚",
+          "role_id": "839747603494600704",
+          "emote_id": "841054171730149406",
+          "emote_name": "programmer"
+        }                      
+        ],
+
+    "purchasable": [
+        {
+          "role_name": "☕ Cappuccino ☕",
+          "role_id": "839708760795774998"
+        },
+        {
+          "role_name": "☕ Mochaccino ☕",
+          "role_id": "839708773861031966"
+        }, 
+        {
+          "role_name": "☕ Latte ☕",
+          "role_id": "839708778441474058"
+        }, 
+       {
+          "role_name": "🍮 Canele 🍮",
+          "role_id": "839750646734389249"
+        }, 
+        {
+          "role_name": "🥖 Baguette 🥖",
+          "role_id": "839750697876586500"
+        },  
+        {
+          "role_name": "🥐 Croissant 🥐",
+          "role_id": "839750743342972958"
+        }, 
+       {
+          "role_name": "🍪 Cookie 🍪",
+          "role_id": "839751259456143360"
+        }, 
+        {
+          "role_name": "🍩 Doughnut 🍩",
+          "role_id": "839751272592834600"
+        }, 
+        {
+          "role_name": "🎀 Kawaii 🎀",
+          "role_id": "839751275016355860"
+        }, 
+        {
+          "role_name": "🍣 Sushi 🍣",
+          "role_id": "839752154138148886"
+        },
+        {
+          "role_name": "🧁 Cupcake 🧁",
+          "role_id": "839753218472935424"
+        }
+        ]
+    }
+  ]  
+}
