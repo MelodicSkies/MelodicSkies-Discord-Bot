@@ -55,7 +55,7 @@ class Roles(Cog):
       await channel.send(purchasable_roles)
 
   #test function
-  def update_roles(self):
+  """def update_roles(self):
     roles_file = open('assets/roles.json', 'r')
 
     config = json.load(roles_file)
@@ -67,7 +67,13 @@ class Roles(Cog):
       db.execute("INSERT OR IGNORE INTO roles (EmoteID, RoleID) VALUES (?, ?)", section['emote_id'], section['role_id'])
       
     for section in config['roles'][0]['hobbies']:
-      db.execute("INSERT OR IGNORE INTO roles (EmoteID, RoleID) VALUES (?, ?)", section['emote_id'], section['role_id'])
+      db.execute("INSERT OR IGNORE INTO roles (EmoteID, RoleID) VALUES (?, ?)", section['emote_id'], section['role_id'])"""
+
+  def update_roles(self):
+    role_message_ids = ['f']
+
+    for id in role_message_ids:
+      pass
 
 
   @Cog.listener()

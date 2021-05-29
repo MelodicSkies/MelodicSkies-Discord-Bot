@@ -61,11 +61,13 @@ class Bot(BotBase):
   async def update_db(self):
     role_ids = [384846475915558926, 839696963909845003, 839697082910769192, 839697250929737759]
     basic_roles = [self.guild.get_role(role) for role in role_ids]
+  
     for member in self.guild.members:
       if not member.bot:
         try:
           db.execute("INSERT INTO users (UserID) VALUES (?)", member.id)
           await member.add_roles(*basic_roles)
+          
         except:
           pass
 
